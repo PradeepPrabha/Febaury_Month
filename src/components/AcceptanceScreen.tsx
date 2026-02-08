@@ -272,7 +272,7 @@ export default function AcceptanceScreen() {
               <span className="inline-block ml-2 sm:ml-3 animate-pulse">❤️</span>
             </h1>
             <p className="text-base xs:text-lg sm:text-xl md:text-2xl text-purple-700/90 font-medium mt-1 sm:mt-2 text-center">
-              I Love You Forever <span className="text-pink-600 font-bold">My Dear Magalee</span>
+              I Love You Forever <span className="text-pink-600 font-bold">My Dear</span>
               <span className="inline-block ml-1 sm:ml-2 animate-float">💕</span>
             </p>
           </div>
